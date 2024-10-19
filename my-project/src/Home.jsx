@@ -29,7 +29,7 @@ export default function Home() {
       {isOpen && (
         <div className="text-center text-2xl text-white mt-4 animate-fadeIn">
           🎉 Happy Birthday Kojo❤️♾ 🎉
-          <p>Cheers 🥂 to greatness Love🫶🏽. I'm so greatful for you</p>
+          <p>Cheers 🥂 to greatness Love🫶🏽. I'm so greatful to have you</p>
           <button onClick={() => setIsOpen(false)} className="mt-2 p-2 bg-rose-500 rounded">Close</button>
         </div>
       )}
